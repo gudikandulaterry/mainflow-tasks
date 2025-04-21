@@ -1,0 +1,30 @@
+Python Task 1 Report
+
+1. Sum of Two Numbers
+   - Takes two numbers as input and prints their sum using the + operator.
+
+2. Odd or Even
+   - Checks if a number is divisible by 2 using modulus (%) to determine even or odd.
+
+3. Factorial
+   - Uses math.factorial() to compute the factorial of a number.
+
+4. Fibonacci Sequence
+   - Generates a list of the first n Fibonacci numbers using a loop.
+
+5. Reverse String
+   - Uses string slicing [::-1] to reverse the input string.
+
+6. Palindrome Check
+   - Compares a string with its reverse to determine if it’s a palindrome.
+
+7. Leap Year
+   - Applies leap year rules: divisible by 4, not 100 unless also 400.
+
+8. Armstrong Number
+   - Sums each digit raised to the power of total digits and compares it with the original number.
+
+9. Encryption-Decryption
+   - Implements a simple Caesar Cipher for both encryption and decryption based on a shift value.
+
+Prepared by: [Terry Gudikandula]
